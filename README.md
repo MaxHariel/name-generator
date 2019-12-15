@@ -1,4 +1,4 @@
-# hello_world
+# name_generator
 
 A new Flutter project.
 
